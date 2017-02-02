@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpMVC", "CsharpMVC\CsharpMVC.csproj", "{6AC11689-F29C-4E99-868B-23313848EBA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpMVC.Tests", "CsharpMVC.Tests\CsharpMVC.Tests.csproj", "{0705D4F6-7627-4427-8103-34813A776312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC11689-F29C-4E99-868B-23313848EBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC11689-F29C-4E99-868B-23313848EBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC11689-F29C-4E99-868B-23313848EBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC11689-F29C-4E99-868B-23313848EBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0705D4F6-7627-4427-8103-34813A776312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0705D4F6-7627-4427-8103-34813A776312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0705D4F6-7627-4427-8103-34813A776312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0705D4F6-7627-4427-8103-34813A776312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
